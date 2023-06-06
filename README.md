@@ -1,6 +1,7 @@
 # Gocar-Carpooling-System
 carpooling system in PHP
 # Landing Page
-![Screenshot (256)](https://github.com/raghulvj01/Gocar-Carpooling-System/assets/69421772/ad29b1b2-0907-4800-8113-bde2155ddd95)
-![Screenshot (254)](https://github.com/raghulvj01/Gocar-Carpooling-System/assets/69421772/96572a33-b31f-4c75-82ed-bf9aad8de1df)
-![Screenshot (255)](https://github.com/raghulvj01/Gocar-Carpooling-System/assets/69421772/ae8cc138-fa49-4935-8945-979c45905829)
+![image](https://github.com/raghulvj01/Gocar-Carpooling-System/assets/69421772/45c0cb43-629f-4d34-88b2-86fcda646345)
+![image](https://github.com/raghulvj01/Gocar-Carpooling-System/assets/69421772/45899336-d35b-4af9-a2f6-d463f17a3b2c)
+![image](https://github.com/raghulvj01/Gocar-Carpooling-System/assets/69421772/3e52882f-aa15-4a6a-938b-86ef048dcefa)
+![image](https://github.com/raghulvj01/Gocar-Carpooling-System/assets/69421772/220933c2-6ad4-437c-9d77-b840e25b723d)
