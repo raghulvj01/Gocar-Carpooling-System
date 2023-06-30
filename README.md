@@ -10,7 +10,7 @@ Mobile view of an navigation Menu:
 
 ![image](https://github.com/raghulvj01/Gocar-Carpooling-System/assets/69421772/220933c2-6ad4-437c-9d77-b840e25b723d)
 # Main Objective 
-The Main Objective of this Project is to reduce the traffic congestion and Added new Features like Emergency SOS . ReactJS and PHP will using fordeveloping the web application.
+The Main Objective of this Project is to reduce the traffic congestion and Added new Features like Emergency SOS . ReactJS and PHP will using for developing the web application.
 # Proposed System 
 Understanding the drawbacks of previous solution and proposing some issues & feature which would help to build a more user-friendly and secure carpooling solution.
 # Advantages: 
